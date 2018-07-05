@@ -3,21 +3,21 @@
     {
       "id": 1,
       "values": [
-        { "date": "31.12.2014", "weight": 3.0, "height": 49 },
-        { "date": "03.02.2015", "weight": 4.2, "height": 54 },
-        { "date": "01.04.2015", "weight": 5.9, "height": 62 },
-        { "date": "19.05.2015", "weight": 7.3, "height": 67 },
-        { "date": "02.06.2015", "weight": 7.8, "height": 68 },
-        { "date": "30.06.2015", "weight": 8.2, "height": 70 },
-        { "date": "04.08.2015", "weight": 8.5, "height": 70 },
-        { "date": "01.09.2015", "weight": 9.4, "height": 70 },
-        { "date": "03.11.2015", "weight": 10.1, "height": 75 },
-        { "date": "01.12.2015", "weight": 10.5, "height": 76 },
-        { "date": "12.01.2016", "weight": 10.8, "height": 80 },
-        { "date": "13.04.2016", "weight": 11.8, "height": 81 },
-        { "date": "22.11.2016", "weight": 14.8, "height": 88 },
-        { "date": "29.05.2017", "weight": 15.1, "height": 94 },
-        { "date": "29.04.2018", "weight": 17.0, "height": 102 }
+        { "date": "2014-12-31", "weight": 3.0, "height": 49 },
+        { "date": "2015-02-03", "weight": 4.2, "height": 54 },
+        { "date": "2015-04-01", "weight": 5.9, "height": 62 },
+        { "date": "2015-05-19", "weight": 7.3, "height": 67 },
+        { "date": "2015-06-02", "weight": 7.8, "height": 68 },
+        { "date": "2015-06-30", "weight": 8.2, "height": 70 },
+        { "date": "2015-08-04", "weight": 8.5, "height": 70 },
+        { "date": "2015-09-01", "weight": 9.4, "height": 70 },
+        { "date": "2015-11-03", "weight": 10.1, "height": 75 },
+        { "date": "2015-12-01", "weight": 10.5, "height": 76 },
+        { "date": "2016-01-12", "weight": 10.8, "height": 80 },
+        { "date": "2016-04-13", "weight": 11.8, "height": 81 },
+        { "date": "2016-11-22", "weight": 14.8, "height": 88 },
+        { "date": "2017-05-29", "weight": 15.1, "height": 94 },
+        { "date": "2018-04-29", "weight": 17.0, "height": 102 }
       ]
     }
   ],
