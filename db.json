@@ -18,7 +18,14 @@
         { "date": "2016-11-22", "weight": 14.8, "height": 88 },
         { "date": "2017-05-29", "weight": 15.1, "height": 94 },
         { "date": "2018-04-29", "weight": 17.0, "height": 102 },
-        { "date": "2018-07-06", "weight": 17.1, "height": 104 }
+        { "date": "2018-07-06", "weight": 17.1, "height": 104 },
+        { "date": "2018-10-09", "weight": 18.0, "height": 106 }
+      ]
+    },
+    {
+      "id": 2,
+      "values": [
+        { "date": "2018-10-02", "weight": 3.3, "height": 52 }
       ]
     }
   ],
