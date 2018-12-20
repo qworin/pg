@@ -25,7 +25,9 @@
     {
       "id": 2,
       "values": [
-        { "date": "2018-10-02", "weight": 3.3, "height": 52 }
+        { "date": "2018-10-02", "weight": 3.3, "height": 52 },
+        { "date": "2018-11-06", "weight": 4.5, "height": 54 },
+        { "date": "2018-12-04", "weight": 5.5, "height": 56 }
       ]
     }
   ],
